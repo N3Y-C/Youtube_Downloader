@@ -23,7 +23,7 @@ print("\n")
 
 #Obtener todas los Streams
 print("**************************** DESCARGANDO VIDEO ****************************")
-lugar = input('Porfavor ingrese el lugar donde se guardara el video ...')
+lugar = input('Porfavor ingrese el lugar donde se guardara el video : ')
 print("DESCARGA INICIADA ....")
 print("DESCARGANDO ....")
 print("PORFAVOR ESPERE, ESTO TOMARA TIEMPO...")
